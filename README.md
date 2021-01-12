@@ -1,5 +1,5 @@
 # The Spark Foundation --- Data Science and Business Analytics Task
-# Task4---Exploratory-Data-Analysis-on-Terrorism-Dataset
-This is the fourth task under Data Science &amp; Business Analytics internship at Graduate Rotational Internship Program Jan-2020 offered by The Sparks Foundation. Exploratory Data Analysis on Terrorism dataset to find out the hot zone.
 
-for the images of Tableau visualatzition visit link https://public.tableau.com/profile/vishal.kumar3920#!/vizhome/GlobalTerrorism_16102204452800/Dashboard1 or https://public.tableau.com/profile/vishal.kumar3920#!/
+This repository contains Data science and business analytics related tasks i have done under Graduate Rotational Internship Program (GRIP) by The Sparks Foundation. Its a 1 month duration and work from home internship.
+
+Task 4 - For Tablueau view please visit https://public.tableau.com/profile/vishal.kumar06#!/vizhome/GlobalTerrorism_16102204452800/Dashboard 
